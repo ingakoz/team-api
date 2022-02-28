@@ -1,0 +1,18 @@
+{
+    "horses": [
+        {
+            "id": 0,
+            "name": "Otto",
+            "breed": "Apls",
+            "age": 6,
+            "siblings": ["Ottono, Ottella"]
+        },
+        {
+            "id": 1,
+            "name": "Lisa",
+            "breed": "XX",
+            "age": 10,
+            "siblings": ["Linana, Leonida", "Lessy"]
+        }
+    ]
+}
